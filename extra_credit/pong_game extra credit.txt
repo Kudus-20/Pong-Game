@@ -1,0 +1,10 @@
+﻿I designed a Game Over interface that is displayed when the ball misses the paddles and hits the vertical walls of the window.
+
+
+I also added code to make the ball color change randomly whenever it hits a paddle. 
+
+
+I also made the ball accelerate whenever it hits a paddle. 
+
+
+The initial direction of the ball is also made random
